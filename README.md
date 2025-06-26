@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello! I'm Chen Chien Yi, also known as Libby.
 
-<!--
-**ChenChienYi/ChenChienYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI/ML Engineer with a focus on computer vision. I love building innovative solutions and contributing to open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Working On
+- [Project 1 Name]: Briefly describe it.
+- [Project 2 Name]: Briefly describe it.
+
+### 🌱 My Core Skills
+- **Programming Languages:** Python, R, MATLAB
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face
+- **Computer Vision:** OpenCV, Detectron2, Semantic Segmentation, Object Detection, Data Augmentation
+- **Tools & Technologies:** Git, SQL
+
+### 💡 Notable Projects
+**Computer Vision**
+- **Data Augmentation** (coming soon) 
+- **Multi-Task Learning model**(coming soon) 
+
+**Reinforcement Learning**
+- **** (coming soon)
+
+**Marchine Learning**
+- **From EDA to Predictive**
+-- [Repo Link](https://github.com/YourUsername/Project1)
+
+### 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/chien-yi-chen/)
+
+---
