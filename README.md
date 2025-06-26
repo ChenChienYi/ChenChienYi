@@ -5,8 +5,8 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 ---
 
 ### 🚀 What I'm Currently Working On
-- [Project 1 Name]: Briefly describe it.
-- [Project 2 Name]: Briefly describe it.
+- [Context-Aware Data Augmentationn]
+- [Multi-Task Learning Model]
 
 ### 🌱 My Core Skills
 - **Programming Languages:** Python, R, MATLAB
@@ -16,14 +16,14 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 
 ### 💡 Notable Projects
 **Computer Vision**
-- **Data Augmentation** (coming soon) 
-- **Multi-Task Learning model**(coming soon) 
+- **Context-Aware Data Augmentation** (coming soon) 
+- **Multi-Task Learning Model**(coming soon) 
 
 **Reinforcement Learning**
 - [**LunarLander**](https://github.com/ChenChienYi/LunarLander)
 
 **Marchine Learning**
-- [**From-EDA-to-Prediction**](https://github.com/YourUsername/Project1)
+- [**From-EDA-to-Prediction**](https://github.com/ChenChienYi/From-EDA-to-Prediction)
 
 ### 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/chien-yi-chen/)
