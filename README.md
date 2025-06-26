@@ -23,8 +23,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 - [**LunarLander**](https://github.com/ChenChienYi/LunarLander)
 
 **Marchine Learning**
-- **From EDA to Predictive**
--- [Repo Link](https://github.com/YourUsername/Project1)
+- [**From-EDA-to-Prediction**](https://github.com/YourUsername/Project1)
 
 ### 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/chien-yi-chen/)
