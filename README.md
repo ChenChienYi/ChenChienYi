@@ -1,5 +1,5 @@
-# Hello! I'm Chen Chien Yi, also known as Libby.
 
+Hello! I'm Chen Chien Yi, also known as Libby.
 I'm a passionate AI/ML Engineer with a focus on computer vision. I love building innovative solutions and contributing to open-source projects.
 
 ---
