@@ -20,7 +20,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 - **Multi-Task Learning model**(coming soon) 
 
 **Reinforcement Learning**
-- **** (coming soon)
+- [**LunarLander**](https://github.com/ChenChienYi/LunarLander)
 
 **Marchine Learning**
 - **From EDA to Predictive**
