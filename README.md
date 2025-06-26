@@ -9,10 +9,10 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 - [Multi-Task Learning Model]
 
 ### 🌱 My Core Skills
-- **Programming Languages:** Python, R, MATLAB
+- **Programming Languages:** Python, R, MATLAB, SAS
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face
 - **Computer Vision:** OpenCV, Detectron2, Semantic Segmentation, Object Detection, Data Augmentation
-- **Tools & Technologies:** Git, SQL
+- **Tools & Technologies:** Git, SQL, Tableau, ArcGis
 
 ### 💡 Notable Projects
 **Computer Vision**
