@@ -7,6 +7,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 ### 🚀 What I'm Currently Working On
 - [Context-Aware Data Augmentationn]
 - [Multi-Task Learning Model]
+- [NeurIPS - Ariel Data Challenge 2025]
 
 ### 🌱 My Core Skills
 - **Programming Languages:** Python, R, MATLAB, SAS
