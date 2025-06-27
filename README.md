@@ -20,10 +20,10 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 - **Multi-Task Learning Model**(coming soon) 
 
 **Reinforcement Learning**
-- [**LunarLander**] [Github](https://github.com/ChenChienYi/LunarLander)
+- **LunarLander** [Github](https://github.com/ChenChienYi/LunarLander)
 
 **Machine Learning**
-- [**From-EDA-to-Prediction**] [Github](https://github.com/ChenChienYi/From-EDA-to-Prediction) | [Kaggle](https://www.kaggle.com/code/chenchienyi/from-eda-to-prediction)
+- **From-EDA-to-Prediction** [Github](https://github.com/ChenChienYi/From-EDA-to-Prediction) | [Kaggle](https://www.kaggle.com/code/chenchienyi/from-eda-to-prediction)
 
 ### 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/chien-yi-chen/)
