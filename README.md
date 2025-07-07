@@ -18,7 +18,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 ### 💡 Notable Projects
 **Computer Vision**
 - **Context-Aware Data Augmentation** (coming soon) 
-- **Multi-Task Learning Model**(coming soon) 
+- **Multi-Task Learning Model** [Github](https://github.com/ChenChienYi/Multi-Task-Learning-Model)
 
 **Reinforcement Learning**
 - **LunarLander** [Github](https://github.com/ChenChienYi/LunarLander)
