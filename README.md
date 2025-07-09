@@ -6,8 +6,8 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 
 ### 🚀 What I'm Currently Working On
 - [Context-Aware Data Augmentationn]
-- [Multi-Task Learning Model]
 - [NeurIPS - Ariel Data Challenge 2025]
+- [Semantic-Aware Indoor Robot Navigation with Multi-Modal Fusion]
 
 ### 🌱 My Core Skills
 - **Programming Languages:** Python, R, MATLAB, SAS
@@ -17,8 +17,9 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 
 ### 💡 Notable Projects
 **Computer Vision**
-- **Context-Aware Data Augmentation** (coming soon) 
-- **Multi-Task Learning Model** [Github](https://github.com/ChenChienYi/Multi-Task-Learning-Model)
+- **Context-Aware Data Augmentation** (coming soon)
+- **Semantic-Aware Indoor Robot Navigation with Multi-Modal Fusion** (coming soon)
+- **Multi-Task Learning Model** [Github](https://github.com/ChenChienYi/Multi-Task-Learning-Model) | [Kaggle](https://www.kaggle.com/code/chenchienyi/face-off-multi-task-learning-for-celeba)
 
 **Reinforcement Learning**
 - **LunarLander** [Github](https://github.com/ChenChienYi/LunarLander)
