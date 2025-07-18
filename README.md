@@ -17,7 +17,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 
 ### 💡 Notable Projects
 **Computer Vision**
-- **Context-Aware Data Augmentation** (coming soon)
+- **Context-Aware Data Augmentation** [Github](https://github.com/ChenChienYi/Context-Aware-Data-Augmentation)
 - **Semantic-Aware Indoor Robot Navigation with Multi-Modal Fusion** (coming soon)
 - **Multi-Task Learning Model** [Github](https://github.com/ChenChienYi/Multi-Task-Learning-Model) | [Kaggle](https://www.kaggle.com/code/chenchienyi/face-off-multi-task-learning-for-celeba)
 
