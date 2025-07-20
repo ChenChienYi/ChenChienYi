@@ -7,7 +7,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 ### 🚀 What I'm Currently Working On
 - [Context-Aware Data Augmentationn]
 - [NeurIPS - Ariel Data Challenge 2025]
-- [Semantic-Aware Indoor Robot Navigation with Multi-Modal Fusion]
+- [Multimodal perception fusion to achieve all-weather environmental understanding]
 
 ### 🌱 My Core Skills
 - **Programming Languages:** Python, R, MATLAB, SAS
@@ -18,7 +18,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 ### 💡 Notable Projects
 **Computer Vision**
 - **Context-Aware Data Augmentation** [Github](https://github.com/ChenChienYi/Context-Aware-Data-Augmentation)
-- **Semantic-Aware Indoor Robot Navigation with Multi-Modal Fusion** (coming soon)
+- **Multimodal perception fusion to achieve all-weather environmental understanding** (coming soon)
 - **Fine-Tuning Segmentation Framework** [Github](https://github.com/ChenChienYi/Fine-Tuning-Segmentation-Framework/tree/main) | [Kaggle](https://www.kaggle.com/code/chenchienyi/fine-tuning-comprehensive-segmentation-framework)
 - **Multi-Task Learning Model** [Github](https://github.com/ChenChienYi/Multi-Task-Learning-Model) | [Kaggle](https://www.kaggle.com/code/chenchienyi/face-off-multi-task-learning-for-celeba)
 
