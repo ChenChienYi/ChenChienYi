@@ -5,8 +5,6 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 ---
 
 ### 🚀 What I'm Currently Working On
-- [Context-Aware Data Augmentationn]
-- [NeurIPS - Ariel Data Challenge 2025]
 - [Multimodal perception fusion to achieve all-weather environmental understanding]
 
 ### 🌱 My Core Skills
