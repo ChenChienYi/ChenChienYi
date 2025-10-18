@@ -6,6 +6,7 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 
 ### 🚀 What I'm Currently Working On
 - [Multimodal perception fusion to achieve all-weather environmental understanding]
+- [Wafer Defect Recognition]
 
 ### 🌱 My Core Skills
 - **Programming Languages:** Python, R, MATLAB, SAS
@@ -17,8 +18,12 @@ I'm a passionate AI/ML Engineer with a focus on computer vision. I love building
 **Computer Vision**
 - **Context-Aware Data Augmentation** [Github](https://github.com/ChenChienYi/Context-Aware-Data-Augmentation)
 - **Multimodal perception fusion to achieve all-weather environmental understanding** (coming soon)
+- **Wafer Defect Recognition** (coming soon)
 - **Fine-Tuning Segmentation Framework** [Github](https://github.com/ChenChienYi/Fine-Tuning-Segmentation-Framework/tree/main) | [Kaggle](https://www.kaggle.com/code/chenchienyi/fine-tuning-comprehensive-segmentation-framework)
 - **Multi-Task Learning Model** [Github](https://github.com/ChenChienYi/Multi-Task-Learning-Model) | [Kaggle](https://www.kaggle.com/code/chenchienyi/face-off-multi-task-learning-for-celeba)
+
+**LLM**
+
 
 **Reinforcement Learning**
 - **LunarLander** [Github](https://github.com/ChenChienYi/LunarLander)
